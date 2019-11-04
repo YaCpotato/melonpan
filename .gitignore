@@ -1,0 +1,4 @@
+gendata/
+.vscode/
+melon/
+melon_train_data.npy
