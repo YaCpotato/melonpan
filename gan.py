@@ -172,7 +172,7 @@ class DCGAN():
                 axs[i, j].imshow(gen_imgs[cnt, :, :, :])
                 axs[i, j].axis('off')
                 cnt += 1
-        fig.savefig('images/gen_imgs/kill_me_%d.png' % iteration)
+        fig.savefig('images/gen_imgs/gen_imgs_%d.png' % iteration)
 
         plt.close()
 
