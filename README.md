@@ -1,5 +1,7 @@
 # 少ない枚数でもお手軽GAN
 
+![melonpan](./melonpan.PNG)
+
 ## 参考
 [画像認識で「綾鷹を選ばせる」AIを作る](https://qiita.com/tomo_20180402/items/e8c55bdca648f4877188)
 [GANについて概念から実装まで　～DCGANによるキルミーベイベー生成～](https://qiita.com/taku-buntu/items/0093a68bfae0b0ff879d)
